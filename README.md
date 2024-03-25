@@ -1,7 +1,11 @@
 # AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension
 official repository of [AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension](https://arxiv.org/pdf/2402.07729.pdf)
 
-![这是图片](Evaluation_Framework.pdf "Automated generative evaluation for large audio-language models (LALMs).")
+<p align="center">
+    <br>
+    <img src="Evaluation_Framework.pdf" width="750"/>
+    <br>
+</p>
 
 # Download Benchmark
 
